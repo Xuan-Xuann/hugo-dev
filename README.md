@@ -1,2 +1,2 @@
-"# hygo-main" 
+"# hugo-main" 
 "# hugo-dev" 
